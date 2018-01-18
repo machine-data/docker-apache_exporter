@@ -1,0 +1,14 @@
+docker-apache_exporter
+
+Copyright 2018 Jodok Batlogg
+
+This product includes software developed at:
+
+
+Apache Exporter for Prometheus
+https://github.com/Lusitaniae/apache_exporter
+developed by Pedro Gomes <http://bit.do/pedrogomes> and
+neezgee <https://github.com/neezgee>
+License: MIT
+
+=========================================================================
